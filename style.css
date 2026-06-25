@@ -1,0 +1,26 @@
+.center-header{
+    text-align: center;
+}
+div{
+    width: 600px;
+    padding: 50px;
+    margin-top : 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid blueviolet;
+  }
+  h1{
+    color: blueviolet;
+    font-family: cursive;
+  }
+  h2{
+    color: blueviolet;
+    font-family: cursive;
+  }
+  h3{
+    color: blueviolet;
+    font-family: cursive;
+  }
+  body{
+    background-color: rgb(233, 214, 137);
+  }
